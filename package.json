@@ -28,7 +28,7 @@
     },
     "extraMetadata": {
       "env": {
-        "SERVER_URL": "https://eventbox.onrender.com"
+        "SERVER_URL": "https://event-boxs.onrender.com"
       }
     }
   }
